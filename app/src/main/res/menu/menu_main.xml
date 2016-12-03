@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu android:icon="@drawable/ic_stat_name" android:theme="@style/Theme.AppCompat.Light" xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:id="@+id/icone" android:title="titre" android:icon="@drawable/ic_stat_name" app:showAsAction="always" />
+    <item android:id="@+id/position" android:title="Localisation" android:icon="@drawable/ic_local" app:showAsAction="always"/>
+</menu>

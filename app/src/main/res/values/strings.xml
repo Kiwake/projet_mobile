@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TOPFILM</string>
+    <string name="button_text">Click</string>
+    <string name="title">TOPFILM</string>
+    <string name="msg">Clap !</string>
+    <string name="notification_title">Notification Alert !</string>
+    <string name="notification_desc">Ceci est une notification !</string>
+    <string name="action_settings">Paramètres !</string>
+    <string name="lst_string">Trouvez les cinémas autour d\'un lieu :</string>
+    <string name="director">Réalisateur</string>
+    <string name="movie">Film</string>
+    <string name="more">Note</string>
+    <string name="dl_cinema">Télécharger la liste de cinémas</string>
+</resources>
